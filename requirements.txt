@@ -1,0 +1,6 @@
+streamlit
+python-dotenv
+certifi
+pinecone
+langchain-google-genai
+google-genai
